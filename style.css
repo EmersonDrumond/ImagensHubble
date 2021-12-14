@@ -38,26 +38,6 @@ nav h2 {
     font-size: 1.6em;
 }
 
-nav ul li {
-    list-style: none;
-    padding: 10px;
-    cursor: pointer;
-  }
-
-  nav ul {
-      display: flex;
-  }
-
-  nav ul li a {
-      color: white;
-      text-decoration: none;
-  }
-
-  nav ul li a:hover {
-      color: rgba(255, 255, 255, 0.527);
-  }
-
-
      /*------section curiosidades-------*/
 
 
